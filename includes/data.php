@@ -30,7 +30,7 @@ $produk = [
         "harga"    => 57000,
         "diskon"   => 0,
         "stok"     => 2,
-        "ikon"     => "assets/products/usbc-usba.png",
+        "ikon"     => "assets/products/usba-usbc.png",
     ],
     "P004" => [
         "nama"     => "USB-C to USB-C 2 Meter (240W Max)",
@@ -53,7 +53,7 @@ $produk = [
         "kategori" => "Aksesoris",
         "harga"    => 350000,
         "diskon"   => 20,
-        "stok"     => 4,
+        "stok"     => 1,
         "ikon"     => "assets/products/wireless-keyboard.png",
     ],
     "P007" => [
@@ -69,7 +69,7 @@ $produk = [
         "kategori" => "Aksesoris",
         "harga"    => 75000,
         "diskon"   => 15,
-        "stok"     => 4,
+        "stok"     => 7,
         "ikon"     => "assets/products/headset.webp",
     ],
     "P009" => [
@@ -77,7 +77,7 @@ $produk = [
         "kategori" => "Aksesoris",
         "harga"    => 115000,
         "diskon"   => 30,
-        "stok"     => 4,
+        "stok"     => 9,
         "ikon"     => "assets/products/generic-webcam.png",
     ],
 ];
